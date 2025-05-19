@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A Frontend-focused Software Developer with React.js skills and a flair for user-centric design</h3>
+<h3 align="center">A Frontend-focused Software Developer with Python skills and a flair for user-centric design</h3>
 
 ---
 
@@ -49,10 +49,16 @@ I'm a software developer with a strong foundation in **C++, Python, and JavaScri
 
 ### 🧰 Tech Stack & Tools
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
@@ -78,4 +84,17 @@ A real-time SPA to display global tech news with dynamic pagination and news del
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyon_
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- 📬 [Email](mailto:you@example.com)
+
+---
+
+> ✨ _"Code for humans, not machines."_ – Dhruv
