@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A Frontend-focused Software Developer with Python skills and a flair for user-centric design</h3>
+<h3 align="center">Frontend-focused Software Developer specializing in React.js, with a strong eye for user-centric design and intuitive UI/UX. Passionate about building responsive, performant, and accessible web applications that enhance user experience.</h3>
 
 ---
 
