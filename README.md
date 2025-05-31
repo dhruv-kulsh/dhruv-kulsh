@@ -1,100 +1,78 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">Frontend-focused Software Developer specializing in React.js, with a strong eye for user-centric design and intuitive UI/UX. Passionate about building responsive, performant, and accessible web applications that enhance user experience.</h3>
+<h3 align="center">Frontend-Focused Software Developer | React.js Enthusiast | Passionate About Clean, User-Centric Interfaces</h3>
 
 ---
 
 ### 💼 Summary
 
-I'm a software developer with a strong foundation in **C++, Python, and JavaScript**, and a keen focus on **Front-end Web Development**. I build **responsive, accessible** interfaces with **React.js** and have experience integrating **REST APIs** and managing cloud-based deployments. My work at **PhonePe** and **ZS Associates** has shaped my problem-solving, automation, and data handling skills.
+I'm a software developer with a strong foundation in **C++, Python, and JavaScript**, and a growing specialization in **Front-end Development**. I build **responsive, accessible, and performant interfaces** using **React.js**, with experience in RESTful integrations, automation, and cloud-based workflows. My roles at **PhonePe** and **ZS Associates** have sharpened my technical, data-driven, and user-experience design skills.
 
 ---
 
 ### 🧑‍💻 Experience
 
-**Associate | ZS Associates**  
-📍 *Pune, India* | 🗓️ *Oct 2023 – Present*  
-- 📈 Increased **patient retention by 15%** using Python & JavaScript automation for monthly triggers  
-- 💻 Built full frontend for a user-centric app using **React.js**, displaying patient-level data via **REST APIs**  
-- 🚀 Improved new user engagement by **4.3%** through dynamic features like **search, filter, and sort**  
-- ☁️ Managed **AWS-based triggers** to accommodate real-time changes in HCP data  
+**Associate – ZS Associates**  
+*Pune, India | Oct 2023 – Present*  
+- Increased **patient retention by 15%** through monthly automation triggers using Python & JavaScript  
+- Developed an intuitive **frontend app** with React.js to visualize patient-level data from REST APIs  
+- Improved **user engagement by 4.3%** with search, filter, and sort functionalities  
+- Handled **real-time HCP data** using AWS-based event triggers  
 
-**Technical Engineer | PhonePe**  
-📍 *Bangalore, India* | 🗓️ *Jan 2023 – Jun 2023*  
-- 🔧 Automated **gas bill payments**, boosting efficiency by **10%** using Python scripts  
-- 📊 Achieved a **20% rise in reminder shares** by leveraging SQL insights and refining React.js UI  
-- 🤝 Onboarded new billers, generating **4000 new transactions**  
-- 💡 Optimized JS code pipeline, leading to **3.6% growth** in gas bill payments  
+**Technical Engineer – PhonePe**  
+*Bangalore, India | Jan 2023 – Jun 2023*  
+- Automated **gas bill payments**, increasing operational efficiency by **10%**  
+- Enhanced UI and improved reminder performance, resulting in a **20% increase** in user action  
+- Onboarded billers, leading to **4000+ new transactions**  
+- Optimized the JS pipeline to contribute to **3.6% growth** in transaction volume  
 
 ---
 
 ### 🎓 Education
 
 **Bachelor of Technology – NIT Agartala**  
-📍 *Agartala, India* | 🗓️ *2019 – 2023* | 📊 *GPA: 8.6/10*  
+*2019 – 2023 | GPA: 8.6/10*  
 
-**Kendriya Vidyalaya, Shahibaug – 12th & 10th**  
-📍 *Ahmedabad, India*  
-- 🏆 12th GPA: 8.7/10  
-- 🏅 10th GPA: 10/10  
-
----
-
-### 🏆 Key Achievements
-
-- 🥇 **Winner** – MATHCO. Triathlon (Top 2 of 5000 participants)  
-- 🥈 **Finalist** – Jumpstart 2022 by Publicis Sapient (Top 2000+ applicants)  
-- 🏆 **1st Rank** – Intern Camp at AAYAM 2019 among NER students  
+**Kendriya Vidyalaya, Shahibaug**  
+- 12th Grade: GPA 8.7/10  
+- 10th Grade: GPA 10/10  
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🏆 Achievements
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![Databricks](https://img.shields.io/badge/Databricks-E87722?style=flat&logo=databricks)
+- 🥇 Winner – MATHCO. Triathlon (Top 2 of 5000 participants)  
+- 🥈 Finalist – Jumpstart 2022, Publicis Sapient (Top 2000+ applicants)  
+- 🏆 1st Rank – Intern Camp at AAYAM 2019, NER Zone  
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:** C++, Python, JavaScript  
+**Frontend:** React.js, HTML5, CSS3, Tailwind, Bootstrap  
+**Backend / APIs:** Node.js, FastAPI  
+**Databases:** PostgreSQL, SQL  
+**Tools & Platforms:** Git, GitHub, AWS, Databricks, Linux  
 
 ---
 
 ### 🚀 Projects
 
 **🌍 [World Atlas](https://reactexplorecountryproject.netlify.app/)**  
-A multi-page React app to explore countries with real-time search, continent filtering, and fact display  
-`Tech Used: React.js, JavaScript, CSS, React Router DOM`
+A React app to explore countries with real-time search, filtering by continent, and interactive UI  
+> _Tech: React.js, CSS, React Router_
 
 **📰 [Tech News Website](https://gettechnews.netlify.app/)**  
-A real-time SPA to display global tech news with dynamic pagination and news deletion features  
-`Tech Used: React.js, HTML, CSS, JavaScript`
+Single-page news portal with live tech updates, pagination, and admin features  
+> _Tech: React.js, HTML, CSS, JavaScript_
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180" />
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-kulsh/)  
+- 📬 [Email](dhruvkulsh@gmail.com)
 
 ---
 
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 📬 [Email](mailto:you@example.com)
-
----
-
-> ✨ _"Code for humans, not machines."_ – Dhruv
+> _“Code for humans, not machines.” – Dhruv_
