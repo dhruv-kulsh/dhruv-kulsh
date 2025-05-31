@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Kulshreshtha</h1>
 <h3 align="center">Frontend-Focused Software Developer | React.js Enthusiast | Passionate About Clean, User-Centric Interfaces</h3>
 
 ---
@@ -48,8 +48,8 @@ I'm a software developer with a strong foundation in **C++, Python, and JavaScri
 
 ### 🧰 Tech Stack
 
-**Languages:** C++, Python, JavaScript  
-**Frontend:** React.js, HTML5, CSS3, Tailwind, Bootstrap  
+**Languages:** C, C++, Python 
+**Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap  
 **Backend / APIs:** Node.js, FastAPI  
 **Databases:** PostgreSQL, SQL  
 **Tools & Platforms:** Git, GitHub, AWS, Databricks, Linux  
