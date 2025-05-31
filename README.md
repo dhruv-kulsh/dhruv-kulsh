@@ -49,7 +49,6 @@ I'm a software developer with a strong foundation in **C++, Python, and JavaScri
 ### 🧰 Tech Stack
 
 **Languages:** C, C++, Python 
-
 **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap  
 **Backend / APIs:** Node.js, FastAPI  
 **Databases:** PostgreSQL, SQL  
