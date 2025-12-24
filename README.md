@@ -50,10 +50,10 @@ I'm a software developer with a strong foundation in **C++, Python, and JavaScri
 
 **Languages:** C, C++, Python 
 
-**Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap  
-**Backend / APIs:** Node.js, FastAPI  
-**Databases:** PostgreSQL, SQL  
-**Tools & Platforms:** Git, GitHub, AWS, Databricks, Linux  
+**Frontend:**  HTML, CSS, JavaScript, React.js, Next.js, Tailwind, Bootstrap  
+**Backend / APIs:** Node.js, Express, FastAPI  
+**Databases:** PostgreSQL, MySQL, MongoDB
+**Tools & Platforms:** Git, GitHub, BitBucket, Gitlab, AWS, Databricks, Linux  
 
 ---
 
